@@ -21,8 +21,10 @@
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-E34F26?style=flat-square&logo=visualstudiocode&logoColor=white)
 ![Visual Studio](https://img.shields.io/badge/-Visual%20Studio-E34F26?style=flat-square&logo=visualstudio&logoColor=white)
 ![Notepad++](https://img.shields.io/badge/-Notepad+-E34F26?style=flat-square&logo=notepadplusplus&logoColor=white)
+
 ![Figma](https://img.shields.io/badge/-Figma-E34F26?style=flat-square&logo=figma&logoColor=white)
 ![Webflow](https://img.shields.io/badge/-Webflow-E34F26?style=flat-square&logo=webflow&logoColor=white)
+
 ![Adobe Illustrator](https://img.shields.io/badge/-Adobe%20Illustrator-E34F26?style=flat-square&logo=adobeillustrator&logoColor=white)
 ![Adobe Photoshop](https://img.shields.io/badge/-Adobe%20Photoshop-E34F26?style=flat-square&logo=adobephotoshop&logoColor=white)
 
