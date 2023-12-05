@@ -16,7 +16,7 @@
 
 ![MySQL](https://img.shields.io/badge/-My%20SQL-E34F26?style=flat-square&logo=mysql&logoColor=white)
 
-### Tools
+### Softwares
 
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-E34F26?style=flat-square&logo=visualstudiocode&logoColor=white)
 ![Visual Studio](https://img.shields.io/badge/-Visual%20Studio-E34F26?style=flat-square&logo=visualstudio&logoColor=white)
