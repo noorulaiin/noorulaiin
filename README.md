@@ -1,4 +1,4 @@
-[![](noor2.gif)](noor2.gif)
+[![](readme.gif)](readme.gif)
 
 ### Languages
 
