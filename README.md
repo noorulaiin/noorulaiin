@@ -40,4 +40,9 @@
   width="100%"
   src="https://github-readme-stats.vercel.app/api?username=noorulaiin&count_private=true&show_icons=true&custom_title=GitHub%20Status&hide=issues&title_color=E34F26&icon_color=FFFFFF&bg_color=ffffff00&text_color=E34F26&hide_border=true"
 />
-| ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=noorulaiin&layout=compact&bg_color=ffffff&title_color=FF1958&theme=swift&exclude_repo=kernel_xiaomi_odin,subconverter-meta ) |
+<img
+  align="left"
+  height="165"
+  width="100%"
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=noorulaiin&layout=compact&bg_color=ffffff00&title_color=E34F26&theme=swift&border_color=00000000&exclude_repo=kernel_xiaomi_odin,subconverter-meta"
+  />
