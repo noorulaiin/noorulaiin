@@ -38,7 +38,7 @@
   align="left"
   height="165"
   width="100%"
-  src="https://github-readme-stats.vercel.app/api?username=noorulaiin&count_private=true&show_icons=true&custom_title=GitHub%20Status&hide=issues&title_color=E34F26&icon_color=FFFFFF&bg_color=ffffff00&text_color=E34F26&hide_border=true"
+  src="https://github-readme-stats.vercel.app/api?username=noorulaiin&count_private=true&show_icons=true&custom_title=Noor's%20GitHub%20Stats&hide=issues&title_color=E34F26&icon_color=FFFFFF&bg_color=ffffff00&text_color=E34F26&hide_border=true"
 />
 <img
   align="left"
