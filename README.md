@@ -1,22 +1,25 @@
 [![](readme.gif)](readme.gif)
 
-### Programming Languages
+<hr>
 
-![JavaScript](https://img.shields.io/badge/-JavaScript-E34F26?style=flat-square&logo=JavaScript&logoColor=white)
-![Visual Basic](https://img.shields.io/badge/-Visual%20Basic-E34F26?style=flat-square&logo=VisualBasic&logoColor=white)
-![C++](https://img.shields.io/badge/-C++-E34F26?style=flat-square&logo=c%2b%2b&logoColor=white)
-
-### Frontend Development
+<h3 align="center">
+Programming Languages
+  
+  ![JavaScript](https://img.shields.io/badge/-JavaScript-E34F26?style=flat-square&logo=JavaScript&logoColor=white)
+  ![Visual Basic](https://img.shields.io/badge/-Visual%20Basic-E34F26?style=flat-square&logo=VisualBasic&logoColor=white)
+  ![C++](https://img.shields.io/badge/-C++-E34F26?style=flat-square&logo=c%2b%2b&logoColor=white)
+  
+Frontend Development
 
 ![HTML5](https://img.shields.io/badge/-HTML%205-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS%203-E34F26?style=flat-square&logo=css3)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-E34F26?style=flat-square&logo=bootstrap&logoColor=white)
 
-### Databases
+Databases
 
 ![MySQL](https://img.shields.io/badge/-My%20SQL-E34F26?style=flat-square&logo=mysql&logoColor=white)
 
-### Softwares
+Softwares
 
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-E34F26?style=flat-square&logo=visualstudiocode&logoColor=white)
 ![Visual Studio](https://img.shields.io/badge/-Visual%20Studio-E34F26?style=flat-square&logo=visualstudio&logoColor=white)
@@ -29,11 +32,14 @@
 ![Adobe Illustrator](https://img.shields.io/badge/-Adobe%20Illustrator-E34F26?style=flat-square&logo=adobeillustrator&logoColor=white)
 ![Adobe Photoshop](https://img.shields.io/badge/-Adobe%20Photoshop-E34F26?style=flat-square&logo=adobephotoshop&logoColor=white)
 
-### Cloud Hosting
+Cloud Hosting
 
 ![Netlify](https://img.shields.io/badge/Netlify-E34F26?style=flat-square&logo=netlify&logoColor=white)
 ![Google Cloud](https://img.shields.io/badge/Google_Cloud-E34F26?style=flat-square&logo=google-cloud&logoColor=white)
 
+</h3>
+
+<hr>
 <img
   align="left"
   height="165"
