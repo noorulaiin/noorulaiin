@@ -44,5 +44,5 @@
   align="left"
   height="165"
   width="100%"
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=noorulaiin&layout=compact&bg_color=ffffff00&title_color=E34F26&theme=swift&border_color=00000000&exclude_repo=kernel_xiaomi_odin,subconverter-meta"
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=noorulaiin&layout=compact&bg_color=ffffff00&title_color=E34F26&text_color=FFFFFF&theme=swift&border_color=00000000&exclude_repo=kernel_xiaomi_odin,subconverter-meta"
   />
