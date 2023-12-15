@@ -2,6 +2,16 @@
 
 <hr>
 
+
+  <p align="center">
+<img width='49%' align="center"src="https://github-readme-stats.vercel.app/api?username=noorulaiin&count_private=true&show_icons=true&custom_title=Noor's%20GitHub%20Stats&hide=issues&title_color=E34F26&icon_color=FFFFFF&bg_color=ffffff00&text_color=E34F26&hide_border=true" />
+</a>
+<span>&nbsp;</span>
+<img width='49%' align="center"src="https://github-readme-stats.vercel.app/api/top-langs/?username=noorulaiin&layout=compact&bg_color=ffffff00&title_color=E34F26&text_color=FFFFFF&theme=swift&border_color=00000000&exclude_repo=kernel_xiaomi_odin,subconverter-meta" />
+</a>
+</p>
+<hr>
+
 <h3 align="center">
 Programming Languages
   
@@ -38,14 +48,3 @@ Cloud Hosting
 ![Google Cloud](https://img.shields.io/badge/Google_Cloud-E34F26?style=flat-square&logo=google-cloud&logoColor=white)
 
 </h3>
-
-<hr>
-
-
-  <p align="center">
-<img width='49%' align="center"src="https://github-readme-stats.vercel.app/api?username=noorulaiin&count_private=true&show_icons=true&custom_title=Noor's%20GitHub%20Stats&hide=issues&title_color=E34F26&icon_color=FFFFFF&bg_color=ffffff00&text_color=E34F26&hide_border=true" />
-</a>
-<span>&nbsp;</span>
-<img width='49%' align="center"src="https://github-readme-stats.vercel.app/api/top-langs/?username=noorulaiin&layout=compact&bg_color=ffffff00&title_color=E34F26&text_color=FFFFFF&theme=swift&border_color=00000000&exclude_repo=kernel_xiaomi_odin,subconverter-meta" />
-</a>
-</p>
