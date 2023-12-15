@@ -45,6 +45,7 @@ Softwares
 
 Cloud Hosting
 
+![Github](https://img.shields.io/badge/Github-E34F26?style=flat-square&logo=github&logoColor=white)
 ![Netlify](https://img.shields.io/badge/Netlify-E34F26?style=flat-square&logo=netlify&logoColor=white)
 ![Google Cloud](https://img.shields.io/badge/Google_Cloud-E34F26?style=flat-square&logo=google-cloud&logoColor=white)
 
