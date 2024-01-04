@@ -1,5 +1,7 @@
 [![](readme.gif)](readme.gif)
 
+<!--<a href="https://github.com/noorulaiin"><img alt="followers" title="Follow me on Github" src="https://img.shields.io/github/followers/noorulaiin?color=E34F26&style=for-the-badge&logo=github&label=Follow"/></a>-->
+
 <hr>
 
 
