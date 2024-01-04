@@ -29,6 +29,7 @@ Frontend Development
 Databases
 
 ![MySQL](https://img.shields.io/badge/-My%20SQL-E34F26?style=flat-square&logo=mysql&logoColor=white)
+![PHP](https://img.shields.io/badge/-PHP-E34F26?style=flat-square&logo=php&logoColor=white)
 
 Softwares
 
